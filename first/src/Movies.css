@@ -1,8 +1,0 @@
-.movies-container {
-    display: flex;
-}
-
-.movies {
-    display: flex !important;
-    gap: 10px;
-}

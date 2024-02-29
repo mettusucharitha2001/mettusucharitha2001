@@ -1,13 +1,30 @@
-/* index.css */
-
-
-.movies {
-    display: flex;
-    gap: 10px;
-    
-    width: 200px; 
-    
-    border-radius: 8px;
+img{
+    height: 100px;
+    width: 100px;
 }
 
+.movies{
+    display: flex;
+    gap: 20px;
+}
+.movie{
+    padding: 50px;
+    box-shadow: 5px 5px 5px black;
+}
+.movies1{
+    display: flex;
+    gap: 40px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.movies2{
+    display: flex;
+    gap: 50px;
+}
 
+    /* CSS to increase text size within span */
+    .large-text {
+        font-size: 40px; /* Adjust the value as needed */
+    }
